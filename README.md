@@ -27,6 +27,9 @@ ST Depression (Oldpeak)
 
 ST Slope Type
 
+![Dataset](https://github.com/sinchana1408/Heart-Disease-Risk-Predictor/blob/a7ca2aec553c3bb786e5d459ac82a3a285c67689/Screenshot%202025-07-11%20175246.png)
+
+
 This cleaned dataset is widely used in healthcare machine learning research.
 
 **🧠 Machine Learning Model**
