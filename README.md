@@ -78,21 +78,14 @@ Edit
 python app.py
 Then open your browser at: http://127.0.0.1:5000
 
-**📂 Folder Structure**
-cpp
-Copy
-Edit
-heart-disease-predictor/
-├── app.py
-├── model/
-│   └── decision_tree_model.pkl
-├── templates/
-│   └── index.html
-├── static/
-│   └── style.css
-├── heart (1).csv
-└── requirements.txt
+**📁 Folder Structure**
 
+![Folder Structure](https://github.com/sinchana1408/Heart-Disease-Risk-Predictor/blob/6dedb5187b9ac1afff924e877f0a70170a415f6b/Screenshot%202025-07-11%20173245.png)
+
+**Screenshots**
+![Input](https://github.com/sinchana1408/Heart-Disease-Risk-Predictor/blob/6dedb5187b9ac1afff924e877f0a70170a415f6b/Screenshot%202025-07-11%20172819.png)
+
+![Output](https://github.com/sinchana1408/Heart-Disease-Risk-Predictor/blob/6dedb5187b9ac1afff924e877f0a70170a415f6b/Screenshot%202025-07-11%20173111.png)
 
 
 **🧾 License**
